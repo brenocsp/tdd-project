@@ -1,0 +1,2 @@
+- Os testes de unidade seguem o princípio FIRST, são rápidos, indepedentes, determinísticos, auto-verificáveis e escritos o quanto antes.
+- Os testes funcionais são feitos sem o conhecimento do código, são feitos para identificar do ponto de vista do usuário, como erros de interface por exemplo.
