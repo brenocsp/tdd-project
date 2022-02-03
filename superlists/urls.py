@@ -25,4 +25,5 @@ urlpatterns = [
     url(r'^accounts/send_email$', accounts_views.send_login_email, name='send_login_email'),
     url(r'^accounts/login$', accounts_views.login, name='login'),
     url(r'^accounts/logout$', accounts_views.logout, name='logout'),
+    url(r'^accounts/send_login_email$', accounts_views.send_login_email, name='send_login_email'),
 ]
